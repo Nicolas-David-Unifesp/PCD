@@ -29,3 +29,6 @@ export class Pcd implements Subject {
 
     
 }
+
+
+//Vou ter que alterar essa bomba aqui
